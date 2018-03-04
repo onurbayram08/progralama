@@ -1,0 +1,2 @@
+# progralama
+kod örneği
